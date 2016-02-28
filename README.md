@@ -1,5 +1,5 @@
 
-# Jekyll Import 'n' Syndicate (Book Edition)
+# Jekyll Importers 'n' Syndicators (Book Edition)
 
 by Tom Preston-Werner, Nick Quaranto, Parker Moore, et al
 
